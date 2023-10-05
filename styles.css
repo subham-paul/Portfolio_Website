@@ -31,7 +31,9 @@
 }
 
 .logo{
-    width:80px;
+    width:50px;
+    height: 70px;
+    margin-right: 1.5rem;
 }
 
 .logo-container{
@@ -43,6 +45,7 @@
 .logo-text{
     margin-left:-1.2rem;
     font-size:28px;
+    font-weight: bolder;
 }
 
 .nav-items{
@@ -80,7 +83,7 @@ a{
     gap: 5rem;
     margin: 4rem auto;
     padding: 0 1rem;
-    padding-bottom: 8rem;
+    padding-bottom: 2.5rem;
 }
 
 .faded-text{
@@ -89,7 +92,7 @@ a{
     font-size: 7em;
     color:rgb(231,231,231);
     
-    bottom: -16%;
+    bottom: -18%;
     left: -5%;
     font-weight: bold;
     transition: all 3s;
@@ -176,7 +179,7 @@ a{
   }
 
   .user-image img{
-    z-index:-9;
+    z-index: -20;
   }
 
   @keyframes scaleImage {
@@ -184,7 +187,6 @@ a{
     0%{
         filter:grayscale(0);
         transform:scale(1);
-        
     }
 
     50%{
@@ -197,7 +199,6 @@ a{
         transform:scale(1);
         filter:grayscale(0);
     }
-    
   }
 
 
@@ -393,7 +394,7 @@ a{
   }
 
   .project-content-right{ 
-    right:10%;
+    right:5%;
   }
 
   .project-skills-container{
@@ -446,8 +447,12 @@ a{
     transform:scale(1.1);
   }
 
+  #more{
+    display: none;
+  }
+
   #project1{
-    background-image: url(./images/projects/Project1.png);
+    background-image: url(./images/projects/S_Notion.png);
   }
 
   #project2{
@@ -523,6 +528,7 @@ a{
     position:relative;
     display:flex;
     padding:5rem;
+    padding-bottom: 2.5rem;
     margin:10rem auto;
     gap:30px;
   }
