@@ -455,6 +455,14 @@ a{
   #more2{
     display: none;
   }
+
+  #more3{
+    display: none;
+  }
+  
+  #more4{
+    display: none;
+  }
   #project1{
     background-image: url(./images/projects/S_Notion.png);
   }
