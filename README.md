@@ -12,9 +12,9 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - [License](#license)
 
 ## Demo
-[Live Demo](https://subham-portfolio-site.netlify.app/)
 
-[![Portfolio Screenshot](screenshot.png)](https://your-portfolio-website-url.com)
+![ezgif com-video-to-gif-converter](https://github.com/subham-paul/Portfolio_Website/assets/52645265/fb0a5e0d-4c73-44f9-9087-2f76c77b443f)
+
 
 ## Technologies Used
 - HTML
