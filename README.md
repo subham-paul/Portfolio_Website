@@ -9,7 +9,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -33,6 +32,9 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Usage
 Open the `index.html` file in your web browser to view the portfolio. Customize the content in the HTML files to reflect your own projects, skills, and information.
+
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ```bash
 open index.html
